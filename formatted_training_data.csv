@@ -1,0 +1,64 @@
+description,importance,estimated_time,preferred_time,workload,priority
+Engineering Deliverables. Engineering Deliverables for Reliance EMS Project. Keywords: GA Drawings preparation and IO Database preparation,High,21.5,Evening,0.8,1
+"Code Review for Module X. Review the code and identify areas for optimization in Module X.. Keywords: Optimization, Code Review, Module X",High,4.0,Morning,0.5,1
+"Budget Planning for Q4. Prepare the quarterly budget for the finance team.. Keywords: Budget, Finance, Q4",Critical,8.0,Afternoon,0.8,1
+"Patient Data Analysis. Analyze patient data to improve healthcare services.. Keywords: Data Analysis, Healthcare, Patients",Medium,6.0,Morning,0.2,0
+"Marketing Campaign Strategy. Develop a new strategy for the upcoming marketing campaign.. Keywords: Marketing, Campaign, Strategy",High,10.0,Evening,0.5,1
+"Prepare Lecture Materials. Create and organize lecture slides for the upcoming semester.. Keywords: Education, Lecture, Slides",Medium,5.0,Afternoon,0.2,0
+"Software Testing for New Release. Perform comprehensive testing on the new software release.. Keywords: Software, Testing, Release",Critical,0.0,Morning,0.8,1
+"Engineering Design Review. Review the engineering design plans for the upcoming project.. Keywords: Engineering, Design, Review",High,7.0,Afternoon,0.5,1
+"Performance Evaluation Reports. Compile performance evaluation reports for the management team.. Keywords: Evaluation, Reports, Management",Medium,4.0,Evening,0.2,0
+"Create Social Media Calendar. Develop a content calendar for the social media team.. Keywords: Social Media, Content, Calendar",Medium,6.0,Morning,0.5,0
+"Update Financial Projections. Update the financial projections for the upcoming fiscal year.. Keywords: Finance, Projections, Fiscal Year",Critical,10.0,Afternoon,0.8,1
+"Conduct Training Session. Prepare and conduct a training session for new employees.. Keywords: Training, Employees, Preparation",High,8.0,Morning,0.5,1
+"Market Research Analysis. Analyze market research data for the upcoming product launch.. Keywords: Market Research, Data Analysis, Product Launch",Medium,6.0,Afternoon,0.2,0
+"Legal Document Review. Review legal documents related to the new business contract.. Keywords: Legal, Document Review, Contract",Critical,5.0,Morning,0.8,1
+"Technical Documentation Writing. Write detailed technical documentation for the latest software release.. Keywords: Documentation, Software Release, Technical Writing",High,6.0,Evening,0.5,1
+"Customer Feedback Analysis. Analyze customer feedback to improve product features.. Keywords: Feedback, Analysis, Product Improvement",Medium,4.0,Morning,0.2,0
+"Database Optimization. Optimize the database for faster query execution.. Keywords: Database, Optimization, Query Performance",High,7.0,Afternoon,0.8,1
+"Employee Onboarding Process. Set up and document the onboarding process for new hires.. Keywords: Onboarding, Employees, HR Process",Medium,5.0,Morning,0.2,0
+"Website Redesign Planning. Plan the redesign of the company website to improve user experience.. Keywords: Website, Redesign, User Experience",High,9.0,Evening,0.5,1
+"Financial Risk Assessment. Assess the financial risks associated with the new project proposal.. Keywords: Financial, Risk Assessment, Project Proposal",Critical,8.0,Afternoon,0.8,1
+"Mobile App Testing. Test the latest version of the mobile app for bugs and performance issues.. Keywords: Mobile App, Testing, Bugs, Performance",High,6.0,Morning,0.5,1
+"Customer Support Ticket Resolution. Resolve high-priority customer support tickets.. Keywords: Customer Support, Ticket Resolution, High Priority",Critical,3.0,Afternoon,0.8,1
+"Create Marketing Personas. Develop marketing personas based on recent customer data.. Keywords: Marketing, Personas, Customer Data",Medium,5.0,Evening,0.5,0
+"Design Prototype for New Feature. Create a design prototype for the new app feature.. Keywords: Design, Prototype, New Feature",High,8.0,Morning,0.2,1
+"Internal Audit Report Preparation. Prepare the internal audit report for the upcoming review.. Keywords: Audit, Report, Internal Review",Critical,9.0,Afternoon,0.8,1
+"Customer Satisfaction Survey Analysis. Analyze the results from the recent customer satisfaction survey.. Keywords: Survey, Customer Satisfaction, Analysis",Medium,4.0,Morning,0.2,0
+"Code Refactoring for Efficiency. Refactor the existing codebase to improve performance and efficiency.. Keywords: Code Refactoring, Efficiency, Performance",High,10.0,Evening,0.5,1
+"Legal Document Review. Review legal documents for the upcoming merger.. Keywords: Legal, Documents, Merger",Critical,6.0,Afternoon,0.8,1
+"Vendor Contract Negotiation. Negotiate terms with new vendors for the supply chain.. Keywords: Vendor, Contract, Negotiation",High,5.0,Morning,0.5,1
+"New Product Launch Strategy. Develop a comprehensive strategy for the upcoming product launch.. Keywords: Product Launch, Strategy, Marketing",Critical,10.0,Evening,0.2,1
+"Software Security Audit. Conduct a security audit of the software to identify vulnerabilities.. Keywords: Security, Audit, Vulnerabilities",Critical,8.0,Afternoon,0.8,1
+"Employee Onboarding. Complete the onboarding process for new hires.. Keywords: Onboarding, HR, Employees",Critical,4.0,Morning,1.0,1
+"Payroll Processing. Process payroll for all employees.. Keywords: Payroll, HR, Finance",High,3.0,Afternoon,0.8,1
+"Graphic Design for Marketing Campaign. Create promotional materials for an upcoming marketing campaign.. Keywords: Design, Marketing, Promotion",Medium,5.0,Evening,0.5,0
+"SCADA System Configuration. Configure SCADA system for a new industrial plant.. Keywords: SCADA, Configuration, Industrial Plant",Critical,0.0,Afternoon,0.8,1
+"Power System Analysis. Perform analysis of the power system for a utility client.. Keywords: Power System, Analysis, Utility",High,10.0,Morning,0.5,1
+"Client Meeting Preparation. Prepare presentation materials for the upcoming client meeting.. Keywords: Client, Presentation, Meeting",Medium,2.0,Morning,0.2,0
+"Safety Compliance Audit. Conduct a safety compliance audit for the plant.. Keywords: Safety, Compliance, Audit",Critical,8.0,Afternoon,0.8,1
+"Annual Budget Planning. Plan the annual budget for the next fiscal year.. Keywords: Budget, Planning, Finance",High,6.0,Morning,0.5,1
+"Employee Training Session. Conduct a training session for new employees on safety protocols.. Keywords: Training, Safety, Employees",Medium,4.0,Afternoon,0.2,0
+"Design Electrical Layout. Design the electrical layout for a new industrial plant.. Keywords: Electrical Layout, Design, Industrial Plant",Critical,14.0,Morning,0.8,1
+"Schedule Maintenance for Industrial Equipment. Organize and schedule maintenance for key industrial equipment.. Keywords: Maintenance, Equipment, Industrial",High,7.0,Afternoon,0.8,1
+"Employee Benefits Review. Conduct a review of employee benefits packages.. Keywords: Benefits, HR, Review",Medium,5.0,Morning,0.5,0
+"Vendor Contract Renewal. Review and renew contracts with key vendors.. Keywords: Vendor, Contract, Review",High,3.0,Afternoon,0.2,1
+"Financial Report Preparation. Prepare monthly financial reports for management review.. Keywords: Finance, Report, Review",Critical,6.0,Morning,0.8,1
+"Marketing Strategy Development. Create a new marketing strategy for a product launch.. Keywords: Marketing, Strategy, Product Launch",High,10.0,Evening,0.5,1
+"SCADA System Testing. Perform testing of the SCADA system for a utility plant.. Keywords: SCADA, Testing, Utility",Critical,8.0,Afternoon,0.8,1
+"Network Security Audit. Conduct a security audit of the company's network.. Keywords: Security, Audit, Network",High,4.0,Morning,0.5,1
+"Performance Review Feedback. Provide feedback on employee performance reviews.. Keywords: Performance, Review, Feedback",Medium,3.0,Afternoon,0.2,0
+"Graphic Design for Annual Report. Design the layout and graphics for the annual company report.. Keywords: Design, Report, Annual",High,9.0,Morning,0.8,1
+"Power System Design Review. Review the design of the power system for a new industrial plant.. Keywords: Power System, Design, Industrial Plant",Critical,10.0,Afternoon,0.5,1
+"Social Media Marketing Campaign. Plan and execute a social media campaign for brand awareness.. Keywords: Social Media, Marketing, Campaign",Medium,6.0,Evening,0.5,0
+"Electrical SCADA System Upgrade. Plan and execute the upgrade of the electrical SCADA system.. Keywords: SCADA, Upgrade, Electrical",Critical,0.0,Afternoon,0.8,1
+"New Hire Orientation Presentation. Create and present orientation materials for new hires.. Keywords: Orientation, New Hire, Presentation",Medium,3.0,Morning,0.2,0
+"Industrial Equipment Procurement. Handle the procurement of new industrial equipment for a project.. Keywords: Procurement, Equipment, Industrial",High,8.0,Morning,0.5,1
+"HR Policy Revision. Revise HR policies for the upcoming fiscal year.. Keywords: HR, Policy, Revision",Medium,5.0,Afternoon,0.2,0
+"Graphic Design for New Marketing Campaign. Create visual designs for the new marketing campaign.. Keywords: Design, Marketing, Campaign",High,7.0,Evening,0.8,1
+"SCADA System Maintenance. Perform routine maintenance on the SCADA system at a power plant.. Keywords: SCADA, Maintenance, Power Plant",Critical,8.0,Morning,0.8,1
+"Budget Analysis for New Project. Analyze the budget requirements for the upcoming project.. Keywords: Budget, Analysis, Project",High,6.0,Afternoon,0.5,1
+"Employee Training Program Development. Develop a new employee training program for safety protocols.. Keywords: Training, Safety, Program",Medium,5.0,Morning,0.2,0
+"Marketing Performance Report. Compile and analyze performance data from recent marketing campaigns.. Keywords: Marketing, Performance, Report",High,7.0,Evening,0.8,1
+"IT Infrastructure Upgrade. Upgrade the company's IT infrastructure to improve performance and security.. Keywords: IT, Infrastructure, Upgrade",Critical,0.0,Morning,0.8,1
+"Graphic Design for Internal Newsletter. Design graphics for the company's internal newsletter.. Keywords: Design, Newsletter, Graphics",Medium,5.0,Afternoon,0.5,0
